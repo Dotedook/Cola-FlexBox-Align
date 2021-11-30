@@ -1,0 +1,68 @@
+.container_row1{
+    height: 100px;
+    border: black;
+    border-style: dotted;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.container_row2{
+    height: 100px;
+    border: black;
+    border-style: dotted;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.container_row3{
+    height: 100px;
+    border: black;
+    border-style: dotted;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.container_column1{
+    height: 500px;
+    border: black;
+    border-style: dotted;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container_column2{
+    height: 500px;
+    border: black;
+    border-style: dotted;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container_column3{
+    height: 500px;
+    border: black;
+    border-style: dotted;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.caixa_laranja{
+    width: 30px;
+    height: 30px;
+    background-color: orange;
+    margin: 5px;
+}
+
+.h2{
+    font-style: sans-serif;
+    text-align: center;
+}
